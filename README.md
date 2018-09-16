@@ -1,2 +1,2 @@
-# Tableau-Account-Performance-Analysis
-This is a student project. All data is generated from simulation.
+# Tableau-Projects
+All Tableau projecs can be viewed at https://public.tableau.com/profile/yuemin.niu#!/
